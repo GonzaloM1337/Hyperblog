@@ -1,0 +1,5 @@
+Capitulo 2 de Git by Gonzalito.
+
+Proyecto Nuevo. Importante practicar, 4 veces ya lo escuche en este modulo.
+
+Segunda edicion, para forzar el primer commit en Git
